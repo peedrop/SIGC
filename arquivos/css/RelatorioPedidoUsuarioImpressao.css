@@ -1,0 +1,109 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr,
+td {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-collapse: collapse;
+}
+
+.titulo {
+    color: black;
+    text-align: center;
+}
+
+.titulo1 {
+    color: #2E9AFE;
+    text-align: center;
+}
+
+#foto {
+    position: relative;
+    float: left;
+}
+
+#texto {
+    clear: both;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.borda {
+    border: 1px solid red;
+}
+
+.direita {
+    text-align: right;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+.fundo1 {
+    background: #DCDCDC;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+}
+
+#area01 {
+    float: left;
+    width: 10%;
+}
+
+#idPed {
+    position: relative;
+    float: left;
+    width: 60%;
+}
+
+.direita {
+    text-align: right;
+}
+
+#ver {
+    color: red;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+#area02 {
+    width: 100%;
+}
+
+#area03 {
+    clear: both;
+    width: 100%;
+}
+
+#area04 {
+    clear: both;
+    width: 100%;
+}
+
+.figura {
+    height: 80px;
+    width: 80px;
+}
+
+.tabela {
+    color: blue;
+    width: 100%;
+}
+
+.tabela th {
+    text-align: left;
+}

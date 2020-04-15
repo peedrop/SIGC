@@ -1,0 +1,29 @@
+#corpoTabela {
+    visibility: hidden;
+}
+
+.ocultar {
+    visibility: hidden;
+}
+
+.error {
+    color: red;
+
+}
+
+.container {
+    padding-top: 1rem;
+}
+
+.excluir {
+    color: #FFFFFF;
+}
+
+.filtrar {
+    color: #FFFFFF;
+}
+
+.atencao {
+    color: #FFFFFF;
+    background: #dc3545;
+}

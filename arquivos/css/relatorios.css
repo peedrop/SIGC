@@ -1,0 +1,69 @@
+.titulo {
+    color: black;
+    text-align: center;
+}
+.titulo1 {
+    color: #2E9AFE;
+    text-align: center;
+}
+
+#area01 {
+    float: left;
+    width: 10%;
+}
+
+#area02 {
+    width: 100%;
+}
+
+#area03 {
+    clear: both;
+    width: 100%;
+}
+
+#area04 {
+    clear: both;
+    width: 100%;
+}
+
+.figura {
+    height: 80px;
+    width: 80px;
+}
+
+.tabela {
+
+    color: black;
+    width: 100%;
+}
+
+.corVermelha {
+    color: #FFF;
+    background: #FA5858;
+}
+
+.corVerde {
+    color: #FFF;
+    background: #5FB404;
+}
+
+.corAzul {
+    color: #FFF;
+    background: #2E9AFE;
+}
+
+.corPreta {
+    color: #FFF;
+    background: #000;
+}
+
+.tabela th {
+    text-align: left;
+}
+
+.total {
+    color: black;
+    border: 2px solid black;
+}
+
+}
